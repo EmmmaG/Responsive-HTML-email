@@ -1,0 +1,12 @@
+@media only screen and (max-width: 480px) {
+    .spacer {
+        display: none;
+    }
+    .col {
+        width: 100%;
+        display: block;
+    }
+    .col {
+        padding-bottom: 15px;
+    }
+}
